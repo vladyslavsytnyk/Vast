@@ -16,6 +16,7 @@
 </Pricing>
 <AdTitle>iabtechlab video ad</AdTitle>
 <Creatives>
+<Creative id="5480" sequence="1" adId="2447226">
 <UniversalAdId idRegistry="Ad-ID" idValue="8465">8465</UniversalAdId>
 <Linear skipoffset="00:00:05">
 <TrackingEvents>
@@ -26,7 +27,6 @@
 <Tracking event="complete">http://example.com/tracking/complete</Tracking>
 <Tracking event="progress" offset="00:00:10">http://example.com/tracking/progress-10</Tracking>
 </TrackingEvents>
-<Duration>00:00:16</Duration>
 <MediaFiles>
 <MediaFile id="5241" delivery="progressive" type="video/mp4" bitrate="2000" width="1280" height="720" minBitrate="1500" maxBitrate="2500" scalable="1" maintainAspectRatio="1" codec="H.264">
 <![CDATA[https://iab-publicfiles.s3.amazonaws.com/vast/VAST-4.0-Short-Intro.mp4]]>
